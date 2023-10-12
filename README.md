@@ -1,5 +1,7 @@
 # BasicCompiler
 
+To Run: navigate to folder and make
+
 Parser:
 
 For assignment statement [IDENTIFIER EQ NonAssignExpr]
