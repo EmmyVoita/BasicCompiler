@@ -1,0 +1,24 @@
+{
+
+int x;
+int y;
+
+x = 5;
+x = 10;
+x = x + 8;
+write x;
+
+y = 10;
+y = 20 + 10;
+
+int z;
+z = x + y;
+
+int k;
+k = 5;
+
+
+write z;
+}
+
+

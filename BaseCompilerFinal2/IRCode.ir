@@ -1,0 +1,5 @@
+t1 = 18 
+ print = t1 
+ t4 = 48 
+ print = t4 
+ 
